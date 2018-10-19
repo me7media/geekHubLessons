@@ -6,3 +6,5 @@ echo 'All rebased in to master';
 echo 'Push marge of branches';
 echo 'git merge';
 echo 'git rebase --skip';
+
+echo 'To rebase me into master';
