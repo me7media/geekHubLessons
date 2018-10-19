@@ -2,4 +2,4 @@
 
 echo 'Hello, GeekHub';
 echo '/n';
-echo 'Rebase';
+echo 'Rebased';
