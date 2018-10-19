@@ -2,4 +2,4 @@
 
 echo 'Hello, GeekHub';
 echo '/n';
-echo 'Marge me into master';
+echo 'Creating me branch on git & new local branch me';
