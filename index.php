@@ -2,4 +2,4 @@
 
 echo 'Hello, GeekHub';
 echo '/n';
-echo 'git rebase';
+echo 'git rebase --skip';
