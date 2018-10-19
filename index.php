@@ -8,3 +8,4 @@ echo 'git merge';
 echo 'git rebase --skip';
 
 echo 'To rebase me into master';
+echo 'git merge';
