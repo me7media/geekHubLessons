@@ -2,4 +2,4 @@
 
 echo 'Hello, GeekHub';
 echo '/n';
-echo 'ME work branch';
+echo 'Marge me into master';
