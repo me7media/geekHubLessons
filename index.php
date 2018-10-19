@@ -9,3 +9,4 @@ echo 'git rebase --skip';
 
 echo 'To rebase me into master';
 echo 'git merge';
+echo 'All rebased in to master';
